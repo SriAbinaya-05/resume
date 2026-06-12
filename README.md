@@ -4,7 +4,7 @@ Electronics and Communication Engineering Student
 
 ## Resume
 
-📄 [Download My Resume](./Gokulan_S_Resume.pdf)
+📄 [Download My Resume](./Gokulan_S_Final_Resume(1).pdf)
 
 ## Projects
 
